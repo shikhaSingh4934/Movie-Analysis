@@ -69,7 +69,7 @@ movie-analysis/
 ```bash
 git clone https://github.com/your-username/movie-analysis.git
 cd movie-analysis
-
+```
 ---
 ### 2. Set Up Virtual Environment (Optional but Recommended)
 
